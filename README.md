@@ -8,4 +8,4 @@
 | Dosen Pengampu | [Mohammad Faried Rahmat, S.ST., M.Tr.T](https://github.com/fariedrahmat) |
 
 # Deskripsi
-|Tempat untuk mengumpulkan Proyek Grafika Komputer
+Tempat untuk mengumpulkan Proyek Grafika Komputer
